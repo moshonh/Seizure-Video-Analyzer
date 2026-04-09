@@ -1,0 +1,9 @@
+[server]
+maxUploadSize = 200          # MB – increase if analysing long videos
+
+[theme]
+primaryColor       = "#2563eb"
+backgroundColor    = "#ffffff"
+secondaryBackgroundColor = "#f8fafc"
+textColor          = "#1a1a1a"
+font               = "serif"
